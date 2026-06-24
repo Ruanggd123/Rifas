@@ -1,0 +1,15 @@
+add_to_card: customer_id = '2', login_type = '1', prod = '16', qty = '50'
+add_to_card: customer_id = '2', login_type = '1', prod = '16', qty = '50'
+add_to_card: customer_id = '2', login_type = '1', prod = '16', qty = '50'
+add_to_card: customer_id = '2', login_type = '1', prod = '16', qty = '50'
+add_to_card: customer_id = '2', login_type = '1', prod = '16', qty = '50'
+add_to_card: customer_id = '2', login_type = '1', prod = '16', qty = '50'
+place_order: Skip transfer. customer_id='2', login_type='1', session_temp=SET
+add_to_card: customer_id = '372', login_type = '2', prod = '16', qty = '50'
+place_order: Skip transfer. customer_id='372', login_type='2', session_temp=NOT SET
+add_to_card: customer_id = '372', login_type = '2', prod = '16', qty = '50'
+add_to_card: customer_id = '372', login_type = '2', prod = '16', qty = '101'
+place_order: Skip transfer. customer_id='372', login_type='2', session_temp=NOT SET
+add_to_card: customer_id = '372', login_type = '2', prod = '16', qty = '50'
+add_to_card: customer_id = '372', login_type = '2', prod = '16', qty = '50'
+place_order: Skip transfer. customer_id='372', login_type='2', session_temp=NOT SET
